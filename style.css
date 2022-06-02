@@ -8,7 +8,7 @@
 body{
     height: 100vh;
     /* background-image: linear-gradient(rgb(255, 255, 255), rgb(29, 13, 116)); */
-    background-image: url("/bg2.jpg");
+    background-image: url("bg2.jpg");
 }
 
 .container{
